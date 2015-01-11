@@ -1,0 +1,11 @@
+{
+  "name": "raw-solarized",
+  "version": "0.1.0",
+  "description": "Solarized scheme color values as JSON",
+  "main": "index.js",
+  "files": [
+    "colors.json"
+  ],
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license": "MIT"
+}
