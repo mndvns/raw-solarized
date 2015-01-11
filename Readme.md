@@ -1,6 +1,6 @@
 # raw-solarized
 
-(Solarized scheme)[https://github.com/altercation/ethanschoonover.com/blob/master/projects/solarized/README.md] color values in json format.
+[Solarized scheme](https://github.com/altercation/ethanschoonover.com/blob/master/projects/solarized/README.md) color values in json format.
 
 ## Format
 
